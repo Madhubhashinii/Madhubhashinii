@@ -10,24 +10,20 @@
   <img src="https://img.shields.io/github/followers/Madhubhashinii?label=Followers&style=for-the-badge&color=1B3A6B&labelColor=0A192F" alt="Followers"/>
 </a>
 <img src="https://komarev.com/ghpvc/?username=Madhubhashinii&style=for-the-badge&color=1B3A6B&labelColor=0A192F&label=PROFILE+VIEWS" alt="Profile Views"/>
-<img src="https://img.shields.io/badge/📍-Galle,%20Sri%20Lanka-1B3A6B?style=for-the-badge&labelColor=0A192F" alt="Location"/>
-
-</div>
 
 <br/>
 
 ## 🧿 About Me
 
 ```yaml
-name: Gayanthika Madhubhashini
-role: Management Information Systems (MIS) Undergraduate
-university: NSBM Green University, Sri Lanka
-focus: Software Development · Web Technologies · Databases
-mindset: Learn → Build → Improve → Repeat
-location: Galle, Sri Lanka
+Name: Gayanthika Madhubhashini
+Role: Management Information Systems (MIS) Undergraduate
+University: NSBM Green University, Sri Lanka
+Focus: Software Development · Web Technologies · Databases
+Mindset: Learn → Build → Improve → Repeat
+
 ```
 
-I enjoy turning ideas into working software — from point-of-sale systems to full web platforms — while continuously sharpening my skills across the stack.
 
 <br/>
 
@@ -114,14 +110,6 @@ My personal portfolio site showcasing my projects, skills, and journey as a deve
 
 <br/>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=Madhubhashinii&hide_border=true&background=0A192F&stroke=1B3A6B&ring=64B5F6&fire=2563EB&currStreakLabel=64B5F6&sideLabels=8FB8E0&dates=8FB8E0&currStreakNum=64B5F6&sideNums=64B5F6" alt="GitHub Streak"/>
-
-</div>
-
 <br/>
 
 ## 🐍 Contribution Snake
@@ -145,8 +133,8 @@ My personal portfolio site showcasing my projects, skills, and journey as a deve
 
 <div align="center">
 
-<a href="mailto:gayamdha@gmail.com">
-  <img src="https://img.shields.io/badge/Email-gayamdha%40gmail.com-1B3A6B?style=for-the-badge&logo=gmail&logoColor=64B5F6&labelColor=0A192F" alt="Email"/>
+<a href="mailto:gayanthishini@gmail.com">
+  <img src="https://img.shields.io/badge/Email-gayanthishini%40gmail.com-1B3A6B?style=for-the-badge&logo=gmail&logoColor=64B5F6&labelColor=0A192F" alt="Email"/>
 </a>
 <a href="https://github.com/Madhubhashinii">
   <img src="https://img.shields.io/badge/GitHub-Madhubhashinii-1B3A6B?style=for-the-badge&logo=github&logoColor=64B5F6&labelColor=0A192F" alt="GitHub"/>
@@ -159,7 +147,7 @@ My personal portfolio site showcasing my projects, skills, and journey as a deve
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,50:1B3A6B,100:0A192F&height=120&section=footer" width="100%"/>
 
 <div align="center">
-<sub>✨ Built with curiosity, code, and continuous learning.</sub>
+
 </div>
 
 <!--
