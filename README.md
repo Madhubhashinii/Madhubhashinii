@@ -118,9 +118,6 @@ My personal portfolio site showcasing my projects, skills, and journey as a deve
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Madhubhashinii&show_icons=true&hide_border=true&count_private=true&rank_icon=github&bg_color=0A192F&title_color=64B5F6&icon_color=64B5F6&text_color=8FB8E0&border_color=1B3A6B" height="175" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhubhashinii&layout=compact&hide_border=true&bg_color=0A192F&title_color=64B5F6&text_color=8FB8E0&border_color=1B3A6B" height="175" alt="Top Languages"/>
-
 <img src="https://streak-stats.demolab.com/?user=Madhubhashinii&hide_border=true&background=0A192F&stroke=1B3A6B&ring=64B5F6&fire=2563EB&currStreakLabel=64B5F6&sideLabels=8FB8E0&dates=8FB8E0&currStreakNum=64B5F6&sideNums=64B5F6" alt="GitHub Streak"/>
 
 </div>
@@ -166,36 +163,7 @@ My personal portfolio site showcasing my projects, skills, and journey as a deve
 </div>
 
 <!--
-=====================================================
- REQUIRED: Enable the animated contribution snake
- (currently 404 until you do this)
-=====================================================
-1. In your Madhubhashinii/Madhubhashinii repo, create the folder
-   path .github/workflows/ if it doesn't exist.
-2. Add the file snake.yml (provided as a separate file alongside
-   this README) into .github/workflows/snake.yml and commit it.
-3. Go to the repo's "Actions" tab → select "Generate Snake" →
-   click "Run workflow" to trigger it manually the first time
-   (it also runs automatically every day after that).
-4. Once it finishes (green checkmark), it creates a branch called
-   "output" containing the SVG files. The image in this README
-   will then load correctly.
-=====================================================
-
-=====================================================
- OPTIONAL BUT RECOMMENDED: Self-host the stats widgets
-=====================================================
-The public github-readme-stats.vercel.app instance is shared by
-thousands of profiles and gets rate-limited by GitHub's API, which
-is why the cards sometimes fail to load or show a sad-face error.
-It usually recovers on its own within minutes/hours, but for a
-permanent fix, deploy your own free copy on Vercel:
-
-1. Go to: https://github.com/anuraghazra/github-readme-stats
-2. Click the "Deploy on Vercel" button in that repo's README.
-3. Sign in with your GitHub account and deploy (no config needed).
-4. Vercel gives you a URL like: github-readme-stats-yourname.vercel.app
-5. In this README, replace every occurrence of
-   "github-readme-stats.vercel.app" with your new URL.
-=====================================================
+snake.yml (in .github/workflows/) generates the contribution snake
+above and re-runs automatically every day via its cron schedule.
+No further action needed unless you rename this repo again.
 -->
